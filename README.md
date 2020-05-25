@@ -2,6 +2,7 @@
 The notebooks in this repository were created to help students who are starting off with Python. You will find very simple IPython notebooks that cover the fundamentals of Python. In our opinion, the only way to learn Python - or any other language - is by doing it. These IPython notebooks are ideal for experimenting with the language.
 
 As you go through the notebooks, you will encounter a number of built-in as well as external Python modules. The ones you should install are given below (you will also find this information in the notebooks):
+
 Pandas
 Numpy
 Seaborn
@@ -12,5 +13,20 @@ TextBlob
 NLTK
 geonamescache
 yellowbrick
+
+Note that we have not organized the notebooks by chapter. If you are new to Python, we would recommend the following sequence:
+1. Variables - introduction to Python
+2. Print function
+3. Strings
+4. Lists
+5. Sets & Tuples
+6. Dictionary
+7. Functions
+8. File Handling
+9. Exception Handling
+10. Basics of Text Analysis
+11. Tweepy - an introduction to Twitter API
+12. Database programming with Python
+
 
 This is a work-in-progress, so look for updates periodically. 

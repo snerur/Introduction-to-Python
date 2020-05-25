@@ -25,7 +25,7 @@ Note that we have not organized the notebooks by chapter. If you are new to Pyth
 8. File Handling
 9. Exception Handling
 10. Basics of Text Analysis
-11. Tweepy - an introduction to Twitter API
+11. Analyzing tweets - an introduction
 12. Database programming with Python
 
 

@@ -21,12 +21,13 @@ Note that we have not organized the notebooks by chapter. If you are new to Pyth
 4. Lists
 5. Sets & Tuples
 6. Dictionary
-7. Functions
-8. File Handling
-9. Exception Handling
-10. Basics of Text Analysis
-11. Analyzing tweets - an introduction
-12. Database programming with Python
+7. Programming constructs
+8. Functions
+9. File Handling
+10. Exception Handling
+11. Basics of Text Analysis
+12. Analyzing tweets - an introduction
+13. Database programming with Python
 
 
 This is a work-in-progress, so look for updates periodically. 
